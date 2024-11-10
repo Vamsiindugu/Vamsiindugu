@@ -20,7 +20,7 @@ Feel free to connect with me @vamsiindugu for all things tech or just to say hel
 </p>
 <hr>
 
-<img align="right" style="border-radius:20px;" height="375" width="375" alt="" src="https://github.com/Vamsiindugu/Vamsiindugu/blob/main/Gifs%20and%20Images/Coder.png" />
+<img align="right" height="350" width="350" alt="" src="https://github.com/Vamsiindugu/Vamsiindugu/blob/main/Gifs%20and%20Images/Coder-modified.png" />
 
 ### Talking about Personal Stuff:
 
