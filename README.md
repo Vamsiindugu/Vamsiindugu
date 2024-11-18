@@ -1,6 +1,3 @@
-<head>
-	<meta name="google-site-verification" content="0J7D6lP6DIVkhkOaJdcAHQ2-hCaTZO3fec_bB0hK80Q" />
-</head>
 
 ## Hey there 👋, I'm [Vamsi!](https://github.com/Vamsiindugu/)
 
