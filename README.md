@@ -4,6 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ctrl_shift_elite/)
 
 <h3 align="left">Versatile and Proactive Graduate with a Technical Knowledge</h3>
+<meta name="google-site-verification" content="0J7D6lP6DIVkhkOaJdcAHQ2-hCaTZO3fec_bB0hK80Q" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vamsiindugu&label=Profile%20views&color=0e75b6&style=flat" alt="Vamsiindugu" /> </p>
 A dedicated and enthusiastic programmer with a keen interest in AI and ML.🚀
 
