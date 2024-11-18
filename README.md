@@ -1,3 +1,6 @@
+<head>
+	<meta name="google-site-verification" content="0J7D6lP6DIVkhkOaJdcAHQ2-hCaTZO3fec_bB0hK80Q" />
+</head>
 ## Hey there 👋, I'm [Vamsi!](https://github.com/Vamsiindugu/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vamsi-indugu/)
