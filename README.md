@@ -25,7 +25,7 @@ Feel free to connect with me @vamsiindugu for all things tech or just to say hel
 
 <img align="right" height="350" width="350" alt="" src="https://github.com/Vamsiindugu/Vamsiindugu/blob/main/Gifs%20and%20Images/Coder-modified.png" />
 
-&nbsp ‎‎  ‎ ‎‎‎  ‎‎ ‎‎‎ ‎‎ ‎‎ ‎‎‎‎ ‎  ‎‎ ‎ ‎  ‎  ‎   ‎  ‎ ‎ ‎‎   ‎ ‎‎     
+&nbsp; ‎‎  ‎ ‎‎‎  ‎‎ ‎‎‎ ‎‎ ‎‎ ‎‎‎‎ ‎  ‎‎ ‎ ‎  ‎  ‎   ‎  ‎ ‎ ‎‎   ‎ ‎‎     
 - 🛠 &nbsp; I’m currently working with JS, Spring, Python, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 - 💬 &nbsp; Ask me anything Java, Python, Artificial Intelligence, Machine Learning.
