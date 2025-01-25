@@ -29,7 +29,7 @@ Feel free to connect with me @vamsiindugu for all things tech or just to say hel
 - 🛠 &nbsp; I’m currently working with JS, Spring, Python, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 - 💬 &nbsp; Ask me anything Java, Python, Artificial Intelligence, Machine Learning.
-- 👾 &nbsp; Fun fact: 90% of the world's data was created in the last two years..
+- 👾 &nbsp; Fun fact: 90% of the world's data was created in the last two years.
 - 📫 &nbsp; Reach me out: vamsiindugu@gmail.com.
 
 ### My Absolute Favorites:
