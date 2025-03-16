@@ -1,8 +1,9 @@
 
 ## Hey there 👋😉, I'm [Vamsi!](https://github.com/Vamsiindugu/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vamsi-indugu/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ctrl_shift_elite/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsi-indugu/)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vamsiindugu@protonmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ctrl_shift_elite/)
 
 <h3 align="left">Versatile and Proactive Graduate with a Technical Knowledge</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vamsiindugu&label=Profile%20views&color=0e75b6&style=flat" alt="Vamsiindugu" /> </p>
