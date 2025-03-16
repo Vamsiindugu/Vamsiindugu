@@ -1,5 +1,5 @@
 
-## Hey there 👋😉, I'm [Vamsi!](https://github.com/Vamsiindugu/)
+## Hey there 👋😉, I'm [Vamsi](https://vamsiindugu.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsi-indugu/)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vamsiindugu@protonmail.com)
