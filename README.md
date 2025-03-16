@@ -1,9 +1,10 @@
 
-# Hey there 👋😉, I'm [Vamsi !](https://vamsiindugu.vercel.app/)
+# Hey there 👋🏻😉, I'm [Vamsi !](https://vamsiindugu.vercel.app/)
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsiindugu@gmail.com) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsi-indugu/) &nbsp;
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vamsiindugu@protonmail.com) &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ctrl_shift_elite/) &nbsp;
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vamsiindugu/) &nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vamsiindugu.vercel.app/) &nbsp;
 
 <h3 align="left">Versatile and Proactive Graduate with a Technical Knowledge</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vamsiindugu&label=Profile%20views&color=0e75b6&style=flat" alt="Vamsiindugu" /> </p>
