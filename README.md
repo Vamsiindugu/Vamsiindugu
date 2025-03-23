@@ -24,9 +24,8 @@ Feel free to connect with me [@vamsiindugu](https://vamsiindugu.vercel.app/#cont
 <hr>
 
 ### Talking about Personal Stuff:
-<img align="right" height="350" width="350" alt="" src="https://github.com/Vamsiindugu/Vamsiindugu/blob/main/Gifs%20and%20Images/Coder-modified.png" />
-
-
+<img align="right" height="350" width="350" style="float:right; padding-bottom:50px" alt="" src="https://github.com/Vamsiindugu/Vamsiindugu/blob/main/Gifs%20and%20Images/Coder-modified.png" />
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 
 - 🛠 &nbsp; I’m currently working with JS, Spring, Python, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
