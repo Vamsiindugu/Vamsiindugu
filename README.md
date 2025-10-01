@@ -13,7 +13,15 @@
   
 </div>
 
-<h3 align="left">Versatile and Proactive Graduate with a Technical Knowledge</h3>
+<div align="center">
+	
+![Vamsiindugu's Stats](https://github-readme-stats.vercel.app/api?username=Vamsiindugu&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) &nbsp;
+![Vamsiindugu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vamsiindugu&theme=tokyonight&hide_border=false)
+	
+</div>
+
+
+<h2 align="left">Versatile and Proactive Graduate with a Technical Knowledge</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vamsiindugu&label=Profile%20views&color=0e75b6&style=flat" alt="Vamsiindugu" /> </p>
 A dedicated and enthusiastic programmer with a keen interest in AI and ML.🚀
 
