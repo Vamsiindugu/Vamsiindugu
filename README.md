@@ -15,7 +15,8 @@
 
 <div align="center">
 	
-![Vamsiindugu's Stats](https://github-readme-stats.vercel.app/api?username=Vamsiindugu&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) &nbsp;
+![Vamsiindugu's Stats](https://github-readme-stats.vercel.app/api?username=Vamsiindugu&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) <br/>
+<br/>
 ![Vamsiindugu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vamsiindugu&theme=tokyonight&hide_border=false)
 	
 </div>
