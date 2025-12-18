@@ -62,8 +62,9 @@ Feel free to connect with me [@vamsiindugu](https://vamsiindugu.vercel.app/#cont
 </details>
 
 <details>
-  <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
+
+  <br />
   	<ul>
   	    <li><b>OS:</b> Windows 11</li>
 	    <li><b>Laptop: </b>Asus ROG Strix G15</li>
