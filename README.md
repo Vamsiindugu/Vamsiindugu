@@ -53,14 +53,6 @@ Feel free to connect with me [@vamsiindugu](https://vamsiindugu.vercel.app/#cont
 
 ### Projects and Dev Stuffs:
 
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsiindugu&hide_border=true" />
-</details>
-
 <details>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
 
