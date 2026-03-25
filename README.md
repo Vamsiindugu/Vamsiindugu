@@ -1,7 +1,10 @@
 <div align="center">
 	
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%96%90%F0%9F%8F%BB%2C+I'm+Vamsi+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%22write+it+before+you+code+it%E2%9C%8C%F0%9F%8F%BB%22+-+Vamsi%F0%9F%98%89)](https://git.io/typing-svg)
- 
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+<br><br>
+
 </div>
 
 <h2 align="left">Versatile and Proactive Graduate with a Technical Knowledge</h2>
